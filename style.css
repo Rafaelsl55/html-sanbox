@@ -1,22 +1,23 @@
+
+
 .card-filme{
     display: inline-block;
-    background-color: #55f555;
+    background-color: #55f599;
     text-align: center;
     padding: 10px;
     border: 2px solid blue;
     margin: 10px;
-    
 }
 
 .card-filme > img{
-    display: inline - block;
+    display: inline-block;
     width: 200px;
 }
 
 .card-filme > .filme-info{
-    float: right ;
+    float: right;
     margin-top: 140px;
     padding: 5px;
-    border:2px solid black;
-
+    border: 2px solid black;
+    margin-left: 5px;
 }
